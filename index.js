@@ -143,4 +143,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login('MTE3NDYwNTgyMzg1NTU2MjgyMg.GCtDLj.v0rx0sdKrPhVcab9hRjjrUI3GPfFdDo8UUkke8');
+client.login('yall thought')
